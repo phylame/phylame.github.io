@@ -1,0 +1,3 @@
+<?php
+This i php
+>
